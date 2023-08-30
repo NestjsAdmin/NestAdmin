@@ -2,8 +2,9 @@
 <img src="https://api.jnsq.gzkz.cn/uploads/file/48095ac42d2cf2f73d30ed9ec8b93f8a_20230825181543.png" width="401.75" height="284.5" />
 </div>
 <div align=center>
-<img src="https://img.shields.io/badge/element--plus-2.3.8-green"/>
+<img src="https://camo.githubusercontent.com/201001d3863fd1289755941ad181743b97a80f96a8c3cb15741e77ff7c9a05fa/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3532303632323831323734323831313639383f7374796c653d666c61742d737175617265266c6f676f3d6e6573746a7326636f6c6f723d613631623361"/>
 <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/element--plus-2.3.8-green"/>
 <img src="https://img.shields.io/badge/vue-3.3.4-brightgreen"/>
 </div>
 
